@@ -24,15 +24,15 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.3",
     "siteFonts": [],
-    "google-analytics": "<!-- begin Wootric code -->\n<script type=\"text/javascript\">\n  window.wootric_survey_immediately = true; // Shows survey immediately for testing purposes. TODO: Comment out for production.\n  window.wootricSettings = {\n    email: 'customer@example.com', // TODO: Required to uniquely identify a user. Email is recommended but this can be any unique identifier.\n    // external_id: 'abc123', // TODO: Reference field for external integrations only. Send it along with email. OPTIONAL\n    created_at: 1234567890, // TODO: The current logged in user's sign-up date as a 10 digit Unix timestamp in seconds. OPTIONAL\n    account_token: 'NPS-e3073d57' // This is your unique account token.\n  };\n</script>\n<script type=\"text/javascript\" src=\"https://cdn.wootric.com/wootric-sdk.js\"></script>\n<script type=\"text/javascript\">\n  // This loads the Wootric survey\n  window.wootric('run');\n</script>\n<!-- end Wootric code -->",
+    "google-analytics": "<!-- begin Wootric code -->\n<script type=\"text/javascript\">\n aria: true,\nask_permission_to_share_feedback: true,\n  permission_labels: {\n    EN: 'I give permission to contact me about sharing my feedback'\n  },\nlanguage: 'EN',\nwootric_close_position: 'left',\n  window.wootric_survey_immediately = true; // Shows survey immediately for testing purposes. TODO: Comment out for production.\n  window.wootricSettings = {\n    email: 'customer@example.com', // TODO: Required to uniquely identify a user. Email is recommended but this can be any unique identifier.\n    // external_id: 'abc123', // TODO: Reference field for external integrations only. Send it along with email. OPTIONAL\n    created_at: 1234567890, // TODO: The current logged in user's sign-up date as a 10 digit Unix timestamp in seconds. OPTIONAL\n    account_token: 'NPS-e3073d57', // This is your unique account token.\ntwitter_account: 'addcolouragency',\nfacebook_page: 'https://www.facebook.com/addcolouragency',\n  };\n</script>\n<script type=\"text/javascript\" src=\"https://cdn.wootric.com/wootric-sdk.js\"></script>\n<script type=\"text/javascript\">\n  // This loads the Wootric survey\n  window.wootric('run');\n</script>\n<!-- end Wootric code -->",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "cookiesAlert": {
@@ -65,8 +65,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Add Colour Agency",
+        "meta_descr": "Ideas For The Future, Now. - .design",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
