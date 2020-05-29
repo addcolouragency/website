@@ -36,6 +36,16 @@
 <script type='text/javascript' src='https://widget.freshworks.com/widgets/63000000589.js' async defer></script>
   
   <script src='//cdn.freshmarketer.com/628150/1663957.js'></script>
+	
+	<script>
+  function initFreshChat() {
+    window.fcWidget.init({
+      token: "4bd97ec9-179b-44e0-add9-1e16d35bfedf",
+      host: "https://wchat.freshchat.com"
+    });
+  }
+  function initialize(i,t){var e;i.getElementById(t)?initFreshChat():((e=i.createElement("script")).id=t,e.async=!0,e.src="https://wchat.freshchat.com/js/widget.js",e.onload=initFreshChat,i.head.appendChild(e))}function initiateCall(){initialize(document,"freshchat-js-sdk")}window.addEventListener?window.addEventListener("load",initiateCall,!1):window.attachEvent("load",initiateCall,!1);
+</script>
   
 </head>
 <body>
