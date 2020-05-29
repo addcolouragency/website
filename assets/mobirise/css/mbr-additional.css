@@ -1313,6 +1313,27 @@ section.lazy-placeholder:after {
 .cid-s0i8tHiotF P {
   color: #232323;
 }
+.cid-s0lUHF15Ny {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s0lUHF15Ny .title {
+  margin-bottom: 2rem;
+}
+.cid-s0lUHF15Ny .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s0lUHF15Ny a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-s0lUHF15Ny a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-s0lUHF15Ny textarea.form-control {
+  min-height: 188px;
+}
 .cid-s0lRBm2xck {
   padding-top: 0px;
   padding-bottom: 0px;
