@@ -8,5 +8,5 @@ jobs:
       - name: Trigger Lighthouse Metrics
         uses: lighthouse-metrics/github-actions@master
         with:
-          url: 'https://example.com'
+          url: 'https://www.addcolour.design'
           token: ${{ secrets.LIGHTHOUSE_METRICS_TOKEN }}
