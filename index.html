@@ -548,6 +548,18 @@ margin-right: 15px !important;
 
 <body class="home page-template page-template-page-templates page-template-page_front-page page-template-page-templatespage_front-page-php page page-id-13 elementor-default elementor-kit-573 elementor-page elementor-page-13">
 
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : 'your-app-id',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v8.0'
+    });
+  };
+</script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js"></script>
+
 	<div class="preloader">
 	    <div class="spinner">
 	        <div class="pre-bounce1"></div>
