@@ -187,9 +187,9 @@ position: static;
 				}				
 			</style>
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="amphtml" href="/?amp"><link rel="icon" href="/wp-content/uploads/2020/07/cropped-icon-trans-png-150x150.png" sizes="32x32" />
-<link rel="icon" href="https://addcolouragency.github.io/website/wp-content/uploads/2020/07/cropped-icon-trans-png-230x230.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://addcolouragency.github.io/website/wp-content/uploads/2020/07/cropped-icon-trans-png-230x230.png" />
-<meta name="msapplication-TileImage" content="https://addcolouragency.github.io/website/wp-content/uploads/2020/07/cropped-icon-trans-png-300x300.png" />
+<link rel="icon" href="/wp-content/uploads/2020/07/cropped-icon-trans-png-230x230.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="/wp-content/uploads/2020/07/cropped-icon-trans-png-230x230.png" />
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2020/07/cropped-icon-trans-png-300x300.png" />
 		<style type="text/css" id="wp-custom-css">
 			h1, h2, h3, h4, h5, h6 {
 color: #263246;
@@ -593,7 +593,7 @@ margin-right: 15px !important;
             <div class="container">
                 <div class="row">
 				<div class="col-md-4 col-sm-8 col-xs-12">
-		        					<a href="/" title="Add Colour Agency"><img class="site-logo" src="https://addcolouragency.github.io/website/wp-content/uploads/2020/07/icon-trans-png.png" alt="Add Colour Agency" /></a>
+		        					<a href="/" title="Add Colour Agency"><img class="site-logo" src="/wp-content/uploads/2020/07/icon-trans-png.png" alt="Add Colour Agency" /></a>
 													</div>
 				<div class="col-md-8 col-sm-4 col-xs-12">
 					<div class="btn-menu"><i class="sydney-svg-icon"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512"><path d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z" /></svg></i></div>
@@ -613,8 +613,8 @@ margin-right: 15px !important;
     <div id="slideshow" class="header-slider" data-speed="0" data-mobileslider="fullscreen">
         <div class="slides-container">
 
-                                <div class="slide-item slide-item-1" style="background-image:url('https://addcolouragency.github.io/website/wp-content/uploads/2020/07/unsplash-ARCHIGEROSA-scaled.jpg');">
-                    <img class="mobile-slide preserve" src="https://addcolouragency.github.io/website/wp-content/uploads/2020/07/unsplash-ARCHIGEROSA-scaled.jpg" alt=""/>
+                                <div class="slide-item slide-item-1" style="background-image:url('/wp-content/uploads/2020/07/unsplash-ARCHIGEROSA-scaled.jpg');">
+                    <img class="mobile-slide preserve" src="/wp-content/uploads/2020/07/unsplash-ARCHIGEROSA-scaled.jpg" alt=""/>
                     <div class="slide-inner">
                         <div class="contain animated fadeInRightBig text-slider">
                         <h2 class="maintitle">.design</h2>
@@ -634,7 +634,7 @@ margin-right: 15px !important;
                 </div>
 
     		<div class="header-image">
-			<div class="overlay"></div>			<img class="header-inner" src="https://addcolouragency.github.io/website/wp-content/uploads/2020/07/cropped-unsplash-ARCHIGEROSA-scaled-1.jpg" width="1920" alt="Add Colour Agency" title="Add Colour Agency">
+			<div class="overlay"></div>			<img class="header-inner" src="/wp-content/uploads/2020/07/cropped-unsplash-ARCHIGEROSA-scaled-1.jpg" width="1920" alt="Add Colour Agency" title="Add Colour Agency">
 		</div>
 		
 			</div>
@@ -811,7 +811,7 @@ margin-right: 15px !important;
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
 							<figure class="wp-caption">
-										<img width="1024" height="1024" src="https://addcolouragency.github.io/website/wp-content/uploads/2020/07/IMG_67061-1024x1024.jpg" class="attachment-large size-large" alt="Melusi" srcset="https://addcolouragency.github.io/website/wp-content/uploads/2020/07/IMG_67061-1024x1024.jpg 1024w, https://addcolouragency.github.io/website/wp-content/uploads/2020/07/IMG_67061-300x300.jpg 300w, https://addcolouragency.github.io/website/wp-content/uploads/2020/07/IMG_67061-150x150.jpg 150w, https://addcolouragency.github.io/website/wp-content/uploads/2020/07/IMG_67061-768x768.jpg 768w, https://addcolouragency.github.io/website/wp-content/uploads/2020/07/IMG_67061-1536x1536.jpg 1536w, https://addcolouragency.github.io/websitehttps://addcolouragency.github.io/website/wp-content/uploads/2020/07/IMG_67061-2048x2048.jpg 2048w, https://addcolouragency.github.io/website/wp-content/uploads/2020/07/IMG_67061-830x830.jpg 830w, https://addcolouragency.github.io/website/wp-content/uploads/2020/07/IMG_67061-230x230.jpg 230w, https://addcolouragency.github.io/website/wp-content/uploads/2020/07/IMG_67061-350x350.jpg 350w, https://addcolouragency.github.io/website/wp-content/uploads/2020/07/IMG_67061-480x480.jpg 480w" sizes="(max-width: 1024px) 100vw, 1024px" />											<figcaption class="widget-image-caption wp-caption-text">Melusi Khumalo - Managing Director</figcaption>
+										<img width="1024" height="1024" src="/wp-content/uploads/2020/07/IMG_67061-1024x1024.jpg" class="attachment-large size-large" alt="Melusi" srcset="/wp-content/uploads/2020/07/IMG_67061-1024x1024.jpg 1024w, /wp-content/uploads/2020/07/IMG_67061-300x300.jpg 300w, /wp-content/uploads/2020/07/IMG_67061-150x150.jpg 150w, /wp-content/uploads/2020/07/IMG_67061-768x768.jpg 768w, /wp-content/uploads/2020/07/IMG_67061-1536x1536.jpg 1536w, /wp-content/uploads/2020/07/IMG_67061-2048x2048.jpg 2048w, /wp-content/uploads/2020/07/IMG_67061-830x830.jpg 830w, /wp-content/uploads/2020/07/IMG_67061-230x230.jpg 230w, /wp-content/uploads/2020/07/IMG_67061-350x350.jpg 350w, /wp-content/uploads/2020/07/IMG_67061-480x480.jpg 480w" sizes="(max-width: 1024px) 100vw, 1024px" />											<figcaption class="widget-image-caption wp-caption-text">Melusi Khumalo - Managing Director</figcaption>
 										</figure>
 					</div>
 				</div>
@@ -996,7 +996,7 @@ margin-right: 15px !important;
 	<div id="sidebar-footer" class="footer-widgets widget-area" role="complementary">
 		<div class="container">
 							<div class="sidebar-column col-md-12">
-					<aside id="media_image-1" class="widget widget_media_image"><img width="300" height="63" src="https://addcolouragency.github.io/website/wp-content/uploads/2020/07/full-logo-for-dark-background1-300x63.png" class="image wp-image-588  attachment-medium size-medium" alt="footer" style="max-width: 100%; height: auto;" srcset="/wp-content/uploads/2020/07/full-logo-for-dark-background1-300x63.png 300w, /wp-content/uploads/2020/07/full-logo-for-dark-background1-1024x215.png 1024w, /wp-content/uploads/2020/07/full-logo-for-dark-background1-768x162.png 768w, /wp-content/uploads/2020/07/full-logo-for-dark-background1-1536x323.png 1536w, /wp-content/uploads/2020/07/full-logo-for-dark-background1-2048x431.png 2048w, /wp-content/uploads/2020/07/full-logo-for-dark-background1-830x175.png 830w, /wp-content/uploads/2020/07/full-logo-for-dark-background1-230x48.png 230w, /wp-content/uploads/2020/07/full-logo-for-dark-background1-350x74.png 350w, /wp-content/uploads/2020/07/full-logo-for-dark-background1-480x101.png 480w" sizes="(max-width: 300px) 100vw, 300px" /></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><p>Shape your future web project with sharp design and refined coded functions.</p>
+					<aside id="media_image-1" class="widget widget_media_image"><img width="300" height="63" src="/wp-content/uploads/2020/07/full-logo-for-dark-background1-300x63.png" class="image wp-image-588  attachment-medium size-medium" alt="footer" style="max-width: 100%; height: auto;" srcset="/wp-content/uploads/2020/07/full-logo-for-dark-background1-300x63.png 300w, /wp-content/uploads/2020/07/full-logo-for-dark-background1-1024x215.png 1024w, /wp-content/uploads/2020/07/full-logo-for-dark-background1-768x162.png 768w, /wp-content/uploads/2020/07/full-logo-for-dark-background1-1536x323.png 1536w, /wp-content/uploads/2020/07/full-logo-for-dark-background1-2048x431.png 2048w, /wp-content/uploads/2020/07/full-logo-for-dark-background1-830x175.png 830w, /wp-content/uploads/2020/07/full-logo-for-dark-background1-230x48.png 230w, /wp-content/uploads/2020/07/full-logo-for-dark-background1-350x74.png 350w, /wp-content/uploads/2020/07/full-logo-for-dark-background1-480x101.png 480w" sizes="(max-width: 300px) 100vw, 300px" /></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><p>Shape your future web project with sharp design and refined coded functions.</p>
 <p>Contact us now<br /> 
 <a href="mailto:info@addcolour.design">info@addcolour.design</a> <br />
 <a href="https://www.facebook.com/addcolouragency">Facebook</a> <br />
