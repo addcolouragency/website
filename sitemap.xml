@@ -3,6 +3,12 @@
 		<loc>http://www.addcolour.design/index.html</loc>
 	</url>
 	<url>
-		<loc>http://www.addcolour.design/services.html</loc>
+		<loc>http://www.addcolour.design/services/index.html</loc>
 	</url>
+<url> 
+<loc>https://www.addcolour.design/portfolio/index.html </loc>
+</url>
+<url> 
+<loc>https://www.addcolour.design/backpages/index.html </loc>
+</url>
 </urlset>
