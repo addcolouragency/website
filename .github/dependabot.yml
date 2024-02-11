@@ -5,7 +5,12 @@
 
 version: 2
 updates:
-  - package-ecosystem: "" # See documentation for possible values
-    directory: "/" #Location of package manifests
+  - package-ecosystem: "npm" # See documentation for possible values
+    directory: "/" # Location of npm package manifests
     schedule:
       interval: "daily"
+  - package-ecosystem: "rubygems" # See documentation for possible values
+    directory: "/" # Location of RubyGems package manifests
+    schedule:
+      interval: "daily"
+  # Add more entries for other ecosystems as needed
